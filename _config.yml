@@ -1,4 +1,3 @@
-layout_spectrum: 0.8525732543785125
 typography_spectrum: 0.07504827389493585
 color:
   brandStrength: 0.25489726290106773
@@ -6,9 +5,11 @@ color:
   saturation: 0.3840520582161844
   rhythmicContrast: 0.5472180868964642
   brandColors:
-    - '#FFFFFF'
-    - '#60B4E0'
-    - '#003368'
-    - '#3B628B'
-    - '#B7C5D4'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.8525732543785125
 name: Eurion
+title: Paas
