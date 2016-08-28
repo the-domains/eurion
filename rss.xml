@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Eurion]]></title>
-        <description><![CDATA[Eurion]]></description>
+        <title><![CDATA[Paas]]></title>
+        <description><![CDATA[Paas]]></description>
         <link>https://thegrid.ai/eurion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 16:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 16:33:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eurion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Platform as a Service (PaaS)]]></title>
+            <description><![CDATA[<article><h1>Platform as a Service (PaaS)</h1><p>Payments and transactional capabilities are no longer strictly the domain of a few, largely closed players. Today’s increasingly mobile and payments-focused environment requires faster deployment, greater interconnectivity among systems and strict compliance – and all under the right economics.
+ 
+As a result, financial and non-financial institutions around the globe are increasingly turning to fintech companies – specialists with the experience, credentials and highly sophisticated tools to accelerate innovation. In addition, new cloud and license-based models are replacing the traditional owned, on-premise, CapEx intensive approach to technology.
+ 
+NovoPayment’s Platform as a Service (PaaS) offering facilitates the creation of new products and services and the integration of third party systems via a bank-grade, highly scalable, and cost-effective model.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0895eb60736ea7b14be4c5d3a67591db4746a3c6.jpg"></article>]]></description>
+            <link>http://travelaway.me/sleep-beneath-stars-italian-alps/</link>
+            <guid isPermaLink="false">595e53f0-6541-4a7d-82a7-0929e1408c8f</guid>
+            <pubDate>Sat, 27 Aug 2016 16:33:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Truly Tokyo Online Travel Guide]]></title>
             <description><![CDATA[<article><h1>Truly Tokyo Online Travel Guide</h1><p>Lonely Planet's Japan, Kyoto and Discover Japan guide author Chris Rowthorn, a longtime Kyoto resident who founded Inside Kyoto, has now tackled the city that plays muse to many all over the world: Tokyo. Truly Tokyo is a new online guide, entirely written by Rowthorn himself, that services first-timers and regular visitors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a537e3e634f758df36edc40db381ea53936da3d.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/travel/truly-tokyo-online-travel-guide</link>
             <guid isPermaLink="false">18f6131e-cf66-47ef-9946-e56f70774f84</guid>
-            <pubDate>Sat, 27 Aug 2016 16:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sleep Beneath the Stars in the Italian Alps | Travel Away]]></title>
-            <description><![CDATA[<article><h1>Sleep Beneath the Stars in the Italian Alps | Travel Away</h1><p>A brainchild of local hotelier Raniero Campigotto, Starlight Room Dolomites is a mobile glass-encased bedroom tucked away in the picturesque Italian Alps, 20 km from the swanky ski resort of Cortina d'Ampezzo. Perched at an altitude of 2,055 meters, the secluded cabin rewards those who brave the climb up with marvelous mountain views by day and pollution-free starry skies by night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0895eb60736ea7b14be4c5d3a67591db4746a3c6.jpg"></article>]]></description>
-            <link>http://travelaway.me/sleep-beneath-stars-italian-alps/</link>
-            <guid isPermaLink="false">595e53f0-6541-4a7d-82a7-0929e1408c8f</guid>
             <pubDate>Sat, 27 Aug 2016 16:26:19 GMT</pubDate>
         </item>
     </channel>
